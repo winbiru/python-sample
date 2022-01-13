@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: winbiru@gmail.com
+Date: Thu, 13 Jan 2022 02:57:36 -0000
+Message-ID: <164204265603.9240.15912821278744593961@DESKTOP-7QQG858>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/az6p00-3cb7b2b9134110ac19e6b4f82cfcdaca/
+
+Your username, in case you’ve forgotten: winbiru
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
